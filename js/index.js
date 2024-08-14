@@ -12,3 +12,4 @@ navLinks.forEach(link => {
 })
 
 // TODO: 17. Creating the portfolio item page: https://youtu.be/_xkSvufmjEs?t=7235
+//Commit #2
